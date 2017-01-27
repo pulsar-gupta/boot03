@@ -16,7 +16,7 @@ import demo.domain.Team;
 import demo.repository.TeamRepository;
 
 @SpringBootApplication
-public class Application {
+public class Application { 
 
 	@Autowired TeamRepository teamRepository;
 	
